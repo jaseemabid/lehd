@@ -8,7 +8,7 @@ body {
 }
 
 .wrapper {
-	width:960px;
+	width:840px;
 	margin:0 auto;
 }
 
@@ -151,7 +151,7 @@ h4 {
 }
 
 div.quote {
-	width: 980px;
+	width: 840px;
 	margin: 100px auto 10px;
 	color: #efefef;
 	color: rgb(111, 111, 111);
